@@ -1,3 +1,4 @@
+
 body{
     background-color: #070707;;
     color: white;
@@ -30,6 +31,10 @@ h3{
 .parrafo {
     font-size: 23px ;
     margin: 20px 20px;
+}
+.link{
+    font-size: 23px ;
+    color: rgba(252, 52, 52, 0.76);
 }
 iframe{
     border-radius: 10px;
@@ -67,4 +72,10 @@ footer{
     font-size: 23px ;
     margin: 20px 20px;
     color: #e9e3e3b7;;
+}
+footer{
+    font-size: 23px ;
+}
+fieldset{
+    background-color: rgba(248, 24, 24, 0.158);
 }
