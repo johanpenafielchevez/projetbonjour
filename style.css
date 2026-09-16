@@ -5,32 +5,39 @@ body{
 }
 img{
     border-radius: 30px;
-margin: 0px 700px;
+    margin: 0px auto;
+    display: block;
 }
 h1{
     font-size: 40px;
-     margin: 50px 1500px 50px 0px;
+    width: fit-content;
+    margin-inline: auto;
+    padding: 5px;
     border-radius: 10px;
     background-color:rgb(20, 128, 252);
     color: white;
 }
 h2{
     font-size: 40px;
-    margin: 50px 1750px 50px 0px;
+   width: fit-content;
+    margin-inline: auto;
+    padding: 5px;
     border-radius: 10px;
     background-color:rgb(20, 128, 252);
     color: white;
 }
 h3{
     font-size: 40px;
-    margin: 50px 1625px 50px 0px;
+    width: fit-content;
+    margin-inline: auto;
+    padding: 5px;
     border-radius: 10px;
     background-color:rgb(20, 128, 252);
     color: white;
 }
 .parrafo {
     font-size: 23px ;
-    margin: 20px 20px;
+    /* margin: 20px 20px; */
 }
 .link{
     font-size: 23px ;
@@ -38,7 +45,8 @@ h3{
 }
 iframe{
     border-radius: 10px;
-    margin: 0px 700px;
+    margin: 0px auto;
+    display: block;
 }
 ol{
     font-size: 23px ;
@@ -52,7 +60,7 @@ mark{
     border-radius: 5px;
 }
 table{
-    margin: 50px 800px;
+    margin: 50px auto;
     font-size: 25px;
     color:#fa0303be;
 }
@@ -60,22 +68,23 @@ tr{
     color: white;
 }
 time{
-    margin: 100px 820px;
+    margin: 100px auto;
+    display: block;
     font-size: 30px;
     background-color:rgb(20, 128, 252);
     border-radius: 10px;
 }
 footer{
-    margin: 50px 50px;
+    /* margin: 50px 50px; */
 }
 .link{
     font-size: 23px ;
-    margin: 20px 20px;
+    /* margin: 20px 20px; */
     color: #e9e3e3b7;;
 }
 footer{
     font-size: 23px ;
 }
 fieldset{
-    background-color: rgba(248, 24, 24, 0.212);
+    background-color: rgba(248, 24, 24, 0.144);
 }
