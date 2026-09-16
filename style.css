@@ -34,9 +34,13 @@ h3{
 iframe{
     border-radius: 10px;
     margin: 0px 700px;
-   
 }
-
+ol{
+    font-size: 23px ;
+}
+ul{
+    font-size: 23px ;
+}
 mark{
     color: white;
     background-color: #f100005d ;
