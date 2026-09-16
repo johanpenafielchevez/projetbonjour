@@ -2,13 +2,10 @@ body{
     background-color: #070707;;
     color: white;
 }
-
 img{
     border-radius: 30px;
 margin: 0px 700px;
 }
-
-
 h1{
     font-size: 40px;
      margin: 50px 1500px 50px 0px;
@@ -32,10 +29,8 @@ h3{
 }
 .parrafo {
     font-size: 23px ;
-    margin: 50px 50px;
+    margin: 20px 20px;
 }
-
-
 iframe{
     border-radius: 10px;
     margin: 0px 700px;
@@ -47,17 +42,25 @@ mark{
     background-color: #f100005d ;
     border-radius: 5px;
 }
-
-
-
-
-
-
-
-
+table{
+    margin: 50px 800px;
+    font-size: 25px;
+    color:#fa0303be;
+}
+tr{
+    color: white;
+}
 time{
-    margin: 0px 400px 0px 600px;
+    margin: 100px 820px;
     font-size: 30px;
     background-color:rgb(20, 128, 252);
     border-radius: 10px;
+}
+footer{
+    margin: 50px 50px;
+}
+.link{
+    font-size: 23px ;
+    margin: 20px 20px;
+    color: #e9e3e3b7;;
 }
